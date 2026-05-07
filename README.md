@@ -1,6 +1,7 @@
-[Watch demo](/Users/mateuszsusmarski/Documents/Repositories/virusgame/demo.mp4)
+[
+# 1. Shooting Mechanism 
 
-# 1. Shooting Mechanism ss
+
 
 The player can shoot bullets in the direction the are facing and also there is a cooling system so that we shoot approximately 3 bullets per second.
 
@@ -31,6 +32,7 @@ BigVirus is derived from Virus
 
 -- Note: the game always starts with a score of 10. From there it can go up or down.
 
-## Description of decisions related to SOLID principles by student
 
-My code structure ...
+
+
+
