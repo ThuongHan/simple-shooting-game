@@ -1,4 +1,6 @@
-# 1. Shooting Mechanism
+[Watch demo](/Users/mateuszsusmarski/Documents/Repositories/virusgame/demo.mp4)
+
+# 1. Shooting Mechanism ss
 
 The player can shoot bullets in the direction the are facing and also there is a cooling system so that we shoot approximately 3 bullets per second.
 
